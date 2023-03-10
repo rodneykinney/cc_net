@@ -1,3 +1,7 @@
 {
-  "pipeline": ["dedup"]
+  "config_name": "00-dedup",
+  "mined_dir": "mined_split",
+  "pipeline": ["dedup"],
+  "hash_in_mem": 4,
+  "task_parallelism": 48
 }
