@@ -1,0 +1,6 @@
+{
+  "config_name": "end-to-end",
+  "hash_in_mem": 4,
+  "mine_num_processes": 1,
+  "task_parallelism": 48
+}
